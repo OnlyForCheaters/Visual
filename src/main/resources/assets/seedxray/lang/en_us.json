@@ -1,0 +1,8 @@
+{
+  "category.seedxray": "SeedXray",
+  "key.seedxray.open": "Toggle SeedXray UI (Numpad 6)",
+  "gui.seedxray.title": "SeedXray",
+  "gui.seedxray.seed": "Seed",
+  "gui.seedxray.ok": "OK",
+  "gui.seedxray.cancel": "Cancel"
+}
