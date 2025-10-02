@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "seedxray",
+  "version": "${version}",
+  "name": "Seed Xray Client",
+  "description": "Render ore positions around player with a seed input GUI.",
+  "authors": ["SeedXrayClient"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.seedxrayclient.SeedXrayClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": ">=1.21"
+  },
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  }
+}
